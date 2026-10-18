@@ -50,3 +50,4 @@ The app needs a server (video processing can't run in a browser). Easiest option
 - **No auth.** Don't expose it to the public internet without adding a login — it's built for personal use.
 - **Copyright:** only clip videos you own or have rights to reuse.
 "# clipforg" 
+"# clipforg" 

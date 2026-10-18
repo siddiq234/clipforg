@@ -1,0 +1,8 @@
+# ClipForge backend dependencies — Python 3.11
+# Pinned with ~= ranges (compatible release: >= given, same major.minor).
+fastapi~=0.115.0
+uvicorn[standard]~=0.30.0
+yt-dlp~=2024.8.6
+faster-whisper~=1.0.0
+opencv-python-headless~=4.10.0
+numpy~=1.26.0
